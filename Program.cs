@@ -9,7 +9,7 @@ namespace Desafio_04
         static void Main(string[] args)
         {
             List<Aluno> aluno = new List<Aluno>();
-            aluno.Add(new Aluno { nome = "Santos", idade = 14, nota = 8 });
+            aluno.Add(new Aluno { nome = "Santos", idade = 14 , nota = 8 });
             aluno.Add(new Aluno { nome = "Silva", idade = 12, nota = 6 });
             aluno.Add(new Aluno { nome = "Pereira", idade = 13, nota = 9 });
             aluno.Add(new Aluno { nome = "Santana", idade = 11, nota = 5 });
